@@ -1,3 +1,3 @@
 # sensor-fault-detection
 
-Detecting thr faulty sesnsor will relation to Air pressure system
+Detecting thr faulty sensor will relation to Air pressure system
